@@ -5,69 +5,73 @@ This repository contains a collection of beginner–to–intermediate level Pyth
 🚀 Programs Included
 1. Fibonacci Series Generator
 
-A Python program that prints the Fibonacci sequence up to a specified number of terms.
+    A Python program that prints the Fibonacci sequence up to a specified number of terms.
+
 It demonstrates:
 
-Variable swapping
+    Variable swapping
 
-Loop iteration
+    Loop iteration
 
-Basic mathematical logic
+    Basic mathematical logic
 
 2. Prime Number Checker
 
-This program checks whether a given number is prime.
+   This program checks whether a given number is prime.
+
 It includes:
 
-Efficient square-root–based prime checking
+    Efficient square-root–based prime checking
 
-Use of loops and conditionals
+    Use of loops and conditionals
 
 3. Largest Number in a List
 
-A simple program that takes a list of numbers from the user and determines the largest value.
+    A simple program that takes a list of numbers from the user and determines the largest value.
+   
 Concepts used include:
 
-List handling
+    List handling
 
-User input parsing
+    User input parsing
 
-Iterative comparison
+    Iterative comparison
 
-4. Reverse a String Without Slicing
+5. Reverse a String Without Slicing
 
-A program that reverses a string manually using a loop, without Python’s slicing features.
+    A program that reverses a string manually using a loop, without Python’s slicing features.
+   
 Useful for understanding:
 
-String traversal
+    String traversal
 
-Character concatenation
+    Character concatenation
 
 🎯 Purpose of This Repository
 
-Perfect for students and beginners practicing Python
+    Perfect for students and beginners practicing Python
 
-Helps improve understanding of fundamental coding logic
+    Helps improve understanding of fundamental coding logic
 
-Good reference for coding assignments or interview preparation
+    Good reference for coding assignments or interview preparation
 
 🛠 Technologies Used
 
-Python 3.x
+    Python 3.x
 
 📄 How to Run
 
 Clone the repo:
 
-git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/your-username/your-repo-name.git
 
 
 Run any program:
 
-  python fibonacciseries.py
+    python fibonacciseries.py
 
-  python prime.py
+    python prime.py
 
-  python largestnumber.py
+    python largestnumber.py
 
-  python reversestring.py
+    python reversestring.py
