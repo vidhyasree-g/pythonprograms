@@ -64,7 +64,10 @@ git clone https://github.com/your-username/your-repo-name.git
 
 Run any program:
 
-python fibonacciseries.py
-python prime.py
-python largestnumber.py
-python reversestring.py
+  python fibonacciseries.py
+
+  python prime.py
+
+  python largestnumber.py
+
+  python reversestring.py
